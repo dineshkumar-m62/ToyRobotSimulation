@@ -1,0 +1,14 @@
+C:\Users\D0861164\source\repos\ToyRobot\bin\Debug\net8.0\ToyRobot.exe
+C:\Users\D0861164\source\repos\ToyRobot\bin\Debug\net8.0\ToyRobot.deps.json
+C:\Users\D0861164\source\repos\ToyRobot\bin\Debug\net8.0\ToyRobot.runtimeconfig.json
+C:\Users\D0861164\source\repos\ToyRobot\bin\Debug\net8.0\ToyRobot.dll
+C:\Users\D0861164\source\repos\ToyRobot\bin\Debug\net8.0\ToyRobot.pdb
+C:\Users\D0861164\source\repos\ToyRobot\obj\Debug\net8.0\ToyRobot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D0861164\source\repos\ToyRobot\obj\Debug\net8.0\ToyRobot.AssemblyInfoInputs.cache
+C:\Users\D0861164\source\repos\ToyRobot\obj\Debug\net8.0\ToyRobot.AssemblyInfo.cs
+C:\Users\D0861164\source\repos\ToyRobot\obj\Debug\net8.0\ToyRobot.csproj.CoreCompileInputs.cache
+C:\Users\D0861164\source\repos\ToyRobot\obj\Debug\net8.0\ToyRobot.dll
+C:\Users\D0861164\source\repos\ToyRobot\obj\Debug\net8.0\refint\ToyRobot.dll
+C:\Users\D0861164\source\repos\ToyRobot\obj\Debug\net8.0\ToyRobot.pdb
+C:\Users\D0861164\source\repos\ToyRobot\obj\Debug\net8.0\ToyRobot.genruntimeconfig.cache
+C:\Users\D0861164\source\repos\ToyRobot\obj\Debug\net8.0\ref\ToyRobot.dll
